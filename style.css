@@ -44,6 +44,9 @@ h1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: blueviolet;
     animation: bright 2s infinite;
+    background-color: #ddd;
+    padding: .5rem;
+    border-radius: .5rem;
 }
 
 input {
